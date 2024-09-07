@@ -1,0 +1,4 @@
+# carpetas de compilacion
+/.wwebjs_auth
+/.wwebjs_cache
+node_modules/
